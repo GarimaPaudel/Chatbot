@@ -15,17 +15,17 @@ This project is a conversational chatbot built using **LangChain** and **Google 
 ### 1. User Uploads a File and Asks a Query
 When the user uploads a document and asks a question based on its content, the chatbot retrieves the relevant information to answer the query.
 
-![Document Query](screenshots/Screenshot 1.png)
+![Document Query](https://github.com/GarimaPaudel/Chatbot/blob/main/screenshots/Screenshot%201.png)
 
 ### 2. User Says "Call Me"
 When the user types "call me", the chatbot prompts a conversational form to collect the user's name, phone number, and email.
 
-![Call Me Form](screenshots/Screenshot 2.png)
+![Call Me Form](https://github.com/GarimaPaudel/Chatbot/blob/main/screenshots/Screenshot%202.png)
 
 ### 3. User Tries to Book an Appointment
 When the user mentions booking an appointment with a date (e.g., "Book an appointment for next Monday"), the chatbot extracts and validates the date, confirming the booking.
 
-![Appointment Booking](screenshots/Screenshot 3.png)
+![Appointment Booking](https://github.com/GarimaPaudel/Chatbot/blob/main/screenshots/Screenshot%203.png)
 
 ## Getting Started
 ### Prerequisites
