@@ -36,3 +36,15 @@ When the user mentions booking an appointment with a date (e.g., "Book an appoin
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repo/conversational-chatbot.git
+
+2. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+
+3. Set up environment variables:
+- Create a .env file with your API keys for LangChain and Google Gemini.
+
+4. Run the application:
+  ```bash
+   streamlit run you.py
+    

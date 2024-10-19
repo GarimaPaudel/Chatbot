@@ -4,8 +4,10 @@ python-dotenv
 docx
 faiss-cpu
 pypdf
+PyPDF2
 numpy
 langchain
 langchain_google_genai
 langchain_community
 dateparser
+faiss-cpu
