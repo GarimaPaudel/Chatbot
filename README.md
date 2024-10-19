@@ -46,5 +46,5 @@ When the user mentions booking an appointment with a date (e.g., "Book an appoin
 
 4. Run the application:
   ```bash
-   streamlit run you.py
+   streamlit run app.py
     
