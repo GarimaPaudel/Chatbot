@@ -35,7 +35,7 @@ When the user mentions booking an appointment with a date (e.g., "Book an appoin
 ### How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/conversational-chatbot.git
+   git clone https://github.com/GarimaPaudel/Chatbot.git
 
 2. Install dependencies:
     ```bash
