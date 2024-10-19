@@ -1,0 +1,11 @@
+streamlit
+google-generativeai
+python-dotenv
+docx
+faiss-cpu
+pypdf
+numpy
+langchain
+langchain_google_genai
+langchain_community
+dateparser
