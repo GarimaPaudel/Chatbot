@@ -43,6 +43,8 @@ When the user mentions booking an appointment with a date (e.g., "Book an appoin
 
 3. Set up environment variables:
 - Create a .env file with your API keys for LangChain and Google Gemini.
+GOOGLE_API_KEY ="ENTERYOURKEYHERE"
+LANGCHAIN_API_KEY = "ENTERYOURKEYHERE"
 
 4. Run the application:
   ```bash
